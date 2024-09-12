@@ -1,7 +1,12 @@
 #include <iostream>
-
+#include <string>
+using namespace std;
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
+    string vardas;
+    string pavarde;
+    int amzius;
+    vardas="Nerijus";
+    cout << "Hello, "<<vardas << endl;
     return 0;
 }
