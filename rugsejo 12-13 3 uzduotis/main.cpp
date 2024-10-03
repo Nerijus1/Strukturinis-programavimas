@@ -14,5 +14,4 @@ int main()
     spalva= "zalios";
 
     cout << "automobilis" << endl;
-    return 0;
 }

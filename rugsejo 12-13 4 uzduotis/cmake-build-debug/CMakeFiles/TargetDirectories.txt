@@ -1,0 +1,3 @@
+C:/Users/s057664/Documents/Strukturinis-programavimas/rugsejo 12-13 4 uzduotis/cmake-build-debug/CMakeFiles/rugsejo_12_13_4_uzduotis.dir
+C:/Users/s057664/Documents/Strukturinis-programavimas/rugsejo 12-13 4 uzduotis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s057664/Documents/Strukturinis-programavimas/rugsejo 12-13 4 uzduotis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
