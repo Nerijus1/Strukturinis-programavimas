@@ -1,0 +1,3 @@
+C:/Users/nerij/Downloads/123/Strukturinis-programavimas/VOLIUTOS KONVERTACIJA/cmake-build-debug/CMakeFiles/VOLIUTOS_KONVERTACIJA.dir
+C:/Users/nerij/Downloads/123/Strukturinis-programavimas/VOLIUTOS KONVERTACIJA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerij/Downloads/123/Strukturinis-programavimas/VOLIUTOS KONVERTACIJA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
