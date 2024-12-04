@@ -1,0 +1,7 @@
+# ninja log v6
+535	618	7550434604607025	3_praktinis_darbas.exe	111afa8e3900661d
+10	273	7549557720066700	CMakeFiles/3_praktinis_darbas.dir/vienas.cpp.obj	13c0191bd3cac378
+5	534	7550434599312863	CMakeFiles/3_praktinis_darbas.dir/main.cpp.obj	352fd679821c89c8
+3	279	7550273733558051	build.ninja	4c070911e92d4844
+7	545	7550439044307612	CMakeFiles/3_praktinis_darbas.dir/main.cpp.obj	352fd679821c89c8
+545	631	7550439049690972	3_praktinis_darbas.exe	111afa8e3900661d
