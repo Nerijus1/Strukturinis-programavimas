@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\nerij\Downloads\Strukturinis-programavimas\lapkricio 28 1 uzduotis\3 uzduotis Select CMakeLists.txt

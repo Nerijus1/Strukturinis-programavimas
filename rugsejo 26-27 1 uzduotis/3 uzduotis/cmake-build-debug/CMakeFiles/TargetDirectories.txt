@@ -1,0 +1,3 @@
+C:/Users/nerij/Downloads/Strukturinis-programavimas/rugsejo 26-27 1 uzduotis/3 uzduotis/cmake-build-debug/CMakeFiles/3_uzduotis.dir
+C:/Users/nerij/Downloads/Strukturinis-programavimas/rugsejo 26-27 1 uzduotis/3 uzduotis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerij/Downloads/Strukturinis-programavimas/rugsejo 26-27 1 uzduotis/3 uzduotis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/nerij/Downloads/Strukturinis-programavimas/lapkricio 28 1 uzduotis/2 uzduotis/cmake-build-debug/CMakeFiles/2_uzduotis.dir
+C:/Users/nerij/Downloads/Strukturinis-programavimas/lapkricio 28 1 uzduotis/2 uzduotis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerij/Downloads/Strukturinis-programavimas/lapkricio 28 1 uzduotis/2 uzduotis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
